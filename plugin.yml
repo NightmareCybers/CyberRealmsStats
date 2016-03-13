@@ -1,6 +1,6 @@
-﻿name: ScoreBoardStats
+﻿name: CyberRealmsStats
 version: 1.0
-main: ScoreboardStats\Main
+main: FahmiCyber\Main
 author: FahmiCyber 
 load: POSTWORLD
 api: 1.13.0
