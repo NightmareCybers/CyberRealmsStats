@@ -1,0 +1,6 @@
+?name: ScoreBoardStats
+version: 1.0
+main: ScoreboardStats\Main
+author: FahmiCyber 
+load: POSTWORLD
+api: 1.13.0
