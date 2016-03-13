@@ -1,6 +1,6 @@
 ﻿name: CyberRealmsStats
 version: 1.0
-main: FahmiCyber\Main
+main: CyberRealmsStats\Main
 author: FahmiCyber 
 load: POSTWORLD
 api: 1.13.0
